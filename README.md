@@ -7,7 +7,15 @@ A dual-portal campus management system built as a 1st Semester BTech CSE project
 - **Admin Portal (Admin):** https://evasive-campus-care-flow.base44.app/admin/tickets
 
 ### ✨ What it does?
-**User Portal:** Students can raise tickets for campus issues (WiFi, Maintenance, etc.) and track their status in real-time.
+
+**About User Portal:** (FOR MACET COLLEGE)
+    This is a centralized platform specifically built for MACET College.
+**How it works:**
+    - Students can submit any issue they are facing on campus (like infrastructure, cleanliness, technical issues, etc.)
+    - The postal requires a photo proof for every complaint to avoid any misleading or false reports.
+    - AI-Powered De-duplication: If 100+ users report the same issue, our AI will automatically detect and merge them into a single major issue. This prevent            spam and helps admin prioritize the most reported problems.
+    
+  
 **Admin Portal:** Admins can view all tickets, assign priority, and resolve them with a clean dashboard.
 
 ### 🛠️ Built With
@@ -16,7 +24,7 @@ A dual-portal campus management system built as a 1st Semester BTech CSE project
 - No-Code Development
 
 ### 👩‍💻 Created By
-Saniya - BTech CSE 1st Sem | Aspiring Product Manager
+Saniya - BTech CSE 1st Sem | Aspiring Web Developer
 
 > This project focuses on product thinking and problem-solving using AI tools, without manual coding. 
 
