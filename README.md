@@ -2,11 +2,11 @@
 
 A dual-portal campus management system built as a 1st Semester BTech CSE project using AI No-Code tools.
 
-### 🔗 Live Demo Links
+###  Live Demo Links
 - **User Portal (Student):** https://campus-iq-flow.base44.app
 - **Admin Portal (Admin):** https://evasive-campus-care-flow.base44.app/admin/tickets
 
-### ✨ What it does?
+###  What it does?
 
 **About User Portal:** (FOR MACET COLLEGE)
     This is a centralized platform specifically built for MACET College.
@@ -18,12 +18,12 @@ A dual-portal campus management system built as a 1st Semester BTech CSE project
   
 **Admin Portal:** Admins can view all tickets, assign priority, and resolve them with a clean dashboard.
 
-### 🛠️ Built With
+###  Built With
 - Base44 - For AI Workflow & Backend
 - Lovable AI - For UI Design
 - No-Code Development
 
-### 👩‍💻 Created By
+###  Created By
 Saniya - BTech CSE 1st Sem | Aspiring Web Developer
 
 > This project focuses on product thinking and problem-solving using AI tools, without manual coding. 
